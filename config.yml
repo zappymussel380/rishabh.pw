@@ -1,0 +1,111 @@
+baseURL: "https://rishabh.pw"
+title: Rishabh Sharma
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: false
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Posts
+          url: posts
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 6
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Hey, I'm also known by the name Zappy and I'm very cool"
+  author: Rishabh Sharma
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  disableSpecial1stPost: false
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  comments: false
+  images: ["cover.png"]
+
+  profileMode:
+    enabled: false
+    title: Rishabh Sharma
+    imageUrl: "https://avatars.githubusercontent.com/u/47924252?v=4"
+    imageTitle: myimage
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/rishabhs103
+        new_page: true
+      - name: Posts
+        url: /posts
+        new_page: false
+
+  homeInfoParams:
+    Title: "Hello there. I'm Rishabh, greatest CA the world will ever lay eyes on!"
+    Content: >
+      Income Tax | Property Tax | Literally Any Tax
+
+  socialIcons:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/rishabhs103
+    - name: instagram
+      url: "https://instagram.com/rishabhs103"
+    - name: github
+      url: "https://github.com/zappymussel380"
+    - name: RsS
+      url: "index.xml"
+
+  assets:
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-icon.png"
+    safari_pinned_tab: "favicon/apple-icon.png"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    noClasses: false
+    style: monokai

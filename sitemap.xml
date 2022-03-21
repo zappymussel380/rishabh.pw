@@ -2,27 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rishabh.pw/posts/</loc>
+    <loc>http://192.168.29.62:8000/categories/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/</loc>
+    <loc>http://192.168.29.62:8000/categories/hardwares/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/tags/</loc>
+    <loc>http://192.168.29.62:8000/posts/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/tags/tools/</loc>
+    <loc>http://192.168.29.62:8000/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/posts/tools-of-the-trade/</loc>
+    <loc>http://192.168.29.62:8000/tags/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/categories/</loc>
+    <loc>http://192.168.29.62:8000/tags/tools/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/posts/</loc>
+    <loc>http://192.168.29.62:8000/posts/hardware/tools-of-the-trade/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rishabh.pw/search/</loc>
+    <loc>http://192.168.29.62:8000/posts/</loc>
   </url><url>
-    <loc>https://rishabh.pw/series/</loc>
+    <loc>http://192.168.29.62:8000/search/</loc>
+  </url><url>
+    <loc>http://192.168.29.62:8000/series/</loc>
   </url>
 </urlset>

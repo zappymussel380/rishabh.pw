@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Rishabh Sharma</title>
-    <link>https://rishabh.pw/tags/</link>
+    <link>http://192.168.29.62:8000/tags/</link>
     <description>Recent content in Tags on Rishabh Sharma</description>
     <image>
-      <url>https://rishabh.pw/cover.png</url>
-      <link>https://rishabh.pw/cover.png</link>
+      <url>http://192.168.29.62:8000/cover.png</url>
+      <link>http://192.168.29.62:8000/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rishabh.pw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.29.62:8000/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tools</title>
-      <link>https://rishabh.pw/tags/tools/</link>
+      <link>http://192.168.29.62:8000/tags/tools/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://rishabh.pw/tags/tools/</guid>
+      <guid>http://192.168.29.62:8000/tags/tools/</guid>
       <description></description>
     </item>
     

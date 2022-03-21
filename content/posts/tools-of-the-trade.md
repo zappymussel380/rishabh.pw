@@ -10,3 +10,4 @@ ShowBreadCrumbs: true
 
 ### Hardware
 **Laptop**: Zappy will add later
+

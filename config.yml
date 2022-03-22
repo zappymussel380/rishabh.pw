@@ -40,7 +40,7 @@ outputs:
 
 params:
   env: production
-  description: "Hey, I'm also known by the name Zappy and I'm very cool"
+  description:
   author: Rishabh Sharma
 
   defaultTheme: auto
@@ -72,19 +72,21 @@ params:
         new_page: false
 
   homeInfoParams:
-    Title: "Hello there. I'm Rishabh, greatest CA the world will ever lay eyes on!"
+    Title: "Hi!. I'm Rishabh Sharma"
     Content: >
-      Income Tax | Property Tax | Literally Any Tax
+      I'm an article assistant at Mahendra Pareek & Co. who has interests in basically everything.
 
   socialIcons:
     - name: LinkedIn
       url: https://www.linkedin.com/in/rishabhs103
     - name: instagram
       url: "https://instagram.com/rishabhs103"
+    - name: twitter
+      url: "https://twitter.com/Rishabhs103"
     - name: github
       url: "https://github.com/zappymussel380"
-    - name: RsS
-      url: "index.xml"
+    - name: email
+      url: "mailto:rishabhs103@gmail.com"
 
   assets:
     favicon: "favicon/favicon.ico"
